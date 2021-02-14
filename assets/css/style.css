@@ -1,0 +1,82 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+
+}
+.header{
+
+margin-top: 10px;
+
+margin-bottom: 10px;
+}
+.logo{
+
+width: 25%;
+
+float: left;
+}
+.logo img{
+
+padding-left: 5px;
+}
+.menu{
+
+width: 75%;
+
+float: left;
+}
+.menu ul{
+
+text-align: right;
+}
+.menu ul li{
+
+list-style-type: none;
+
+display: inline-block;
+
+padding-top: 5px;
+
+padding-bottom: 5px;
+
+padding-right: 5px;
+
+padding-left: 50px;
+}
+.menu ul li a{
+	
+color: #606060;
+	
+text-decoration: none;
+	
+text-transform: uppercase;
+}
+.banner{
+
+}
+.banner img{
+	
+width: 100%;
+}
+.blog1{
+
+}
+.container{
+    width: 1080px;
+    margin: auto;
+}
+.container h3{
+    text-transform: uppercase;
+    color: #606060;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.container h1{
+    color: #606060;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+.container p{}
+.container h4{}
